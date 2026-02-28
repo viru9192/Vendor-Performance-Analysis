@@ -1,0 +1,18 @@
+2026-02-21 23:05:48,451 - INFO - Ingesting purchases.csv in Database
+2026-02-21 23:06:06,374 - INFO - Ingesting purchase_prices.csv in Database
+2026-02-21 23:06:06,431 - INFO - Ingesting vendor_invoice.csv in Database
+2026-02-21 23:06:06,570 - INFO - Ingesting begin_inventory.csv in Database
+2026-02-21 23:06:07,461 - INFO - Ingesting end_inventory.csv in Database
+2026-02-21 23:06:16,578 - INFO - Ingesting sales.csv in Database
+2026-02-21 23:09:18,514 - INFO - Ingestion completed successfully
+2026-02-21 23:09:18,529 - INFO - 
+ Total time taken to load data in Database: 3.5352927009264628 minutes
+2026-02-22 17:51:35,463 - INFO - Ingesting purchases.csv in db
+2026-02-22 17:52:37,437 - INFO - Ingesting purchase_prices.csv in db
+2026-02-22 17:52:37,614 - INFO - Ingesting vendor_invoice.csv in db
+2026-02-22 17:52:38,083 - INFO - Ingesting begin_inventory.csv in db
+2026-02-22 17:52:42,009 - INFO - Ingesting end_inventory.csv in db
+2026-02-22 17:53:09,543 - INFO - Ingesting sales.csv in db
+2026-02-22 18:04:34,437 - INFO - --------------Ingestion Complete------------
+2026-02-22 18:04:34,449 - INFO - 
+Total Time Taken: 13.087721232573191 minutes
