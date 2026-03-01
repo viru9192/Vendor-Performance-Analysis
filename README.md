@@ -167,6 +167,4 @@ Vendor Performance VM/
 Viranchi Ravindra More  
 MS in Information Systems  
 
-Focused on transforming complex data into measurable business impact.
-
-Open to Data Analyst and Business Intelligence opportunities.
+Focused on transforming complex data into measurable business impact. Open to Data Analyst and Business Intelligence opportunities.
