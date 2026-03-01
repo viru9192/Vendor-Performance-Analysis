@@ -1,5 +1,4 @@
 data/
-*.csv
 *.db
 __pycache__/
 .venv/
